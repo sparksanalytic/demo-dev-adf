@@ -1,0 +1,9 @@
+{
+	"name": "adfsparksanalytic",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4dd9c55-bbdd-46e8-861b-2fe2548dd58b",
+		"tenantId": "fd1fbf9f-991a-40b4-ae26-61dfc34421ef"
+	}
+}
